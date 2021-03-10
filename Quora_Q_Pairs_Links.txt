@@ -1,0 +1,8 @@
+https://github.com/RajaSudipta/QuoraQuestionPairs/blob/master/Quora_Q_Pairs_phase_4_final.ipynb
+https://colab.research.google.com/drive/1gB5q-eUHzFGCFYw6Pv67P6Ya48tsbyXk (Quora_Q_Pairs_phase_4_final.ipynb) (as colab notebook both in sudipta.halder11@gmail.com and austin.austin.photos@gmail.com)
+
+https://github.com/abhishekkrthakur/is_that_a_duplicate_quora_question/blob/master/feature_engineering.py
+https://medium.springboard.com/identifying-duplicate-questions-a-machine-learning-case-study-37117723844
+https://medium.com/mlreview/implementing-malstm-on-kaggles-quora-question-pairs-competition-8b31b0b16a07
+http://sergeiturukin.com/2017/04/14/kaggle-quora-part2.html
+https://mc.ai/questions-pairs-identification/
